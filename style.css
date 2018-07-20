@@ -1,6 +1,7 @@
-header {
+header, nav {
     background-color: #FD739C;
     color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1, h2 {
