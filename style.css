@@ -12,3 +12,16 @@ body {
     font-size: 22px;
     line-height: 34px;
 }
+
+#first-section {
+    margin-top: 10px;
+    padding: 5px;
+}
+
+#second-section {
+    padding: 5px;
+}
+
+h1 {
+    margin-top: 0;
+}
